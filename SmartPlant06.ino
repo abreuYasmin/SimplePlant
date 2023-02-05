@@ -1,14 +1,14 @@
-#define BLYNK_TEMPLATE_ID           "TMPLV1XVzXqG"
+#define BLYNK_TEMPLATE_ID           "theID"
 #define BLYNK_DEVICE_NAME           "Quickstart Device"
-#define BLYNK_AUTH_TOKEN            "6NpMUyGPEA9EgwxNTC4l8G65SYLfvBBG"
+#define BLYNK_AUTH_TOKEN            "yourToken"
 
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "Hywasx";
-char pass[] = "bolodechocolate";
+char ssid[] = "wifiName";
+char pass[] = "password";
 
 const int SoilSensor = 34;
 
