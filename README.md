@@ -11,3 +11,6 @@ Projeto IoT para monitoramento das condições de uma planta e suas necessidades
 - ``ESP32``
 - ``Sensor de umidade de solo capacitivo``
 - ``Foto resistor``
+
+![](https://github.com/abreuYasmin/SimplePlant/blob/main/Gify.gif)
+
